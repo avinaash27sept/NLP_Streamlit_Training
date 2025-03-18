@@ -8,7 +8,7 @@ pages = {
 
     ],
     "Language Modelling": [
-        
+         st.Page("unit3\\lda.py", title="Latent Dirichlet Allocation")
 
     ]
 }
